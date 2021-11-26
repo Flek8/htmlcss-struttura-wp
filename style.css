@@ -1,0 +1,47 @@
+.container{
+    width: 60%;
+    margin: auto;
+}
+
+header{
+    height: 100px;
+    background-color: rgb(177, 102, 127);
+}
+
+.sect-1{
+    margin: 15px 0;
+    height: 400px;
+    background-color: rgb(192, 192, 71);
+}
+
+.sect-2{
+    background-color: rgb(28, 93, 231);
+}
+.upbar{
+    height: 60px;
+    background-color: rgb(143, 171, 223);
+}
+
+.sidebar-sx,.sidebar-dx{
+    width: 20%;
+    background-color: rgb(143, 171, 223);
+    float: left;
+    height: 400px;
+    margin: 20px 0;}
+.content{
+    height: 400px;
+    width: 56%;
+    margin: 20px 2%;
+    float: left;
+    background-color: rgb(143, 171, 223);
+}
+.clearfix{
+    clear: both;
+}
+
+
+footer{
+    margin-top: 5px;
+    height: 60px;
+    background-color: rgb(97, 36, 155);
+}
